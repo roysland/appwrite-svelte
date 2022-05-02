@@ -1,9 +1,9 @@
 # svelte-appwrite-sdk (Beta)
-
+This project is a fork of [sdk-for-svelte](https://github.com/appwrite/sdk-for-svelte). 
 Easy to use [Appwrite](https://appwrite.io/) components for Svelte. Install it:
 
 ```bash
-npm install svelte-appwrite-sdk-sdk
+npm install svelte-appwrite-sdk
 # or 
 yarn svelte-appwrite-sdk
 ```
